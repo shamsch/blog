@@ -7,7 +7,7 @@ export default function Page() {
 				Who is Shamsur?
 			</h1>
 			<p className='mb-4'>
-				{`I am software developer based in Finland. Currently working as a software consultant. This 
+				{`I am software developer based in Tampere, Finland. Currently working as a software consultant. This 
         is my minimal web presence. There is a blog section where I write about code and life. If you are interested,
         reach out to me via one of the platforms below. Happy to have a chat. Thanks for visiting! 🚀`}
 			</p>
