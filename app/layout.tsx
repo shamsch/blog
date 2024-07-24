@@ -11,13 +11,14 @@ import { baseUrl } from "./sitemap";
 export const metadata: Metadata = {
 	metadataBase: new URL(baseUrl),
 	title: {
-		default: "shams.fi",
+		default: "Hi, I'm Shamsur",
 		template: "%s | By Shamsur",
 	},
-	description: "Shamsur - a software developer based in Finland.",
+	description: "Shamsur Chowdhury - a software developer based in Finland.",
 	openGraph: {
 		title: "shams.fi",
-		description: "Shamsur - a software developer based in Finland.",
+		description:
+			"Shamsur Chowdhury - a software developer based in Finland.",
 		url: baseUrl,
 		siteName: "shams.fi",
 		locale: "en_US",
