@@ -4,7 +4,7 @@ export default function Page() {
 	return (
 		<section>
 			<h1 className='mb-8 text-2xl font-semibold tracking-tighter'>
-				Who is Shamsur? 👩‍💻
+				Who is Shamsur? 👨🏽‍💻
 			</h1>
 			<p className='mb-4'>
 				{`I am software developer based in Tampere, Finland. Currently working as a software consultant. This 
